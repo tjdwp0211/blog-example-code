@@ -2,7 +2,7 @@ import React from "react";
 import Parents from "./components/Parents";
 
 function App() {
-  return <Parents></Parents>;
+  return <Parents />;
 }
 
 export default App;
