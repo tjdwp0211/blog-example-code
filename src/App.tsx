@@ -1,8 +1,8 @@
 import React from "react";
-import Parents from "./code/reRendering-22-12-23/Parents";
+import { ReRenderingParents, TextOverFlowParents } from "./code";
 
 function App() {
-  return <Parents />;
+  return <TextOverFlowParents />;
 }
 
 export default App;
